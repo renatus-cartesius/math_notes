@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algebra/Normal_subgroups.md",
+            "file": "algebra/Span as factor.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algebra/Normal_subgroups.md",
+            "file": "algebra/Span as factor.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algebra/Normal_subgroups.md",
+                "file": "algebra/Span as factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "5925765cdd6098da",
   "lastOpenFiles": [
+    "algebra/Span as factor.md",
     "algebra/Normal_subgroups.md",
     "algebra/Normal_groups.md",
     "algebra/Annulators.md",
